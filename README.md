@@ -17,7 +17,7 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
-**Otros:** R | DAX | Power Query | Looker | BigQuery | MongoDB | API REST | Automatización con scripts
+**Otros:** DAX | Power Query | JavaScript | Azure | API REST | Automatización con scripts
 
 ---
 
