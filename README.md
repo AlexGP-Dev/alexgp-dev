@@ -68,17 +68,8 @@
 
 ## 📫 Conectemos
 
-- 💼 [LinkedIn](https://linkedin.com/in/tuusuario)
-- 🐦 [X / Twitter](https://twitter.com/tuusuario)
-- 📧 [Email profesional](mailto:tu@email.com)
-
----
-
-## 📊 Estadísticas de GitHub
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AlexGP-Dev&show_icons=true&theme=dark&hide_border=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexGP-Dev&layout=compact&theme=dark&hide_border=true)
+- 💼 [LinkedIn](https://www.linkedin.com/in/alexgp-dev/)
+- 📧 [Email profesional](mailto:alexgarciapal@hotmail.com)
 
 ---
 
